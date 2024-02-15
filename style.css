@@ -3,12 +3,12 @@ center {
     
 }
 img {
-    width: 250px;
+    width: 190px;
     align-items: center;
     flex: auto;
 }
 .imagen {
-    width: 320px;
+    width: 420;
     align-items: center;
     flex: auto;
 }
