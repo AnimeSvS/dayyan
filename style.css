@@ -1,0 +1,14 @@
+center {
+    align-items: center;
+    
+}
+img {
+    width: 250px;
+    align-items: center;
+    flex: auto;
+}
+.imagen {
+    width: 420px;
+    align-items: center;
+    flex: auto;
+}
